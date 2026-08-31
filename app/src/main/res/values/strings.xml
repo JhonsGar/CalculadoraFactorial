@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora Factorial</string>
+    <string name="app_icon_description">Símbolo matemático factorial</string>
+    <string name="title">Calculadora Factorial</string>
+    <string name="subtitle">Ingresa un entero y descubre el valor de n!.</string>
+    <string name="number_hint">Número entero</string>
+    <string name="number_helper">Valores permitidos: de 0 a 5000</string>
+    <string name="calculate">Calcular factorial</string>
+    <string name="result_hint">Resultado (solo lectura)</string>
+    <string name="result_for_number">Resultado de %1$d!</string>
+    <string name="clear">Limpiar</string>
+    <string name="factorial_definition">n! es el producto de todos los enteros positivos desde 1 hasta n. Por definición, 0! = 1.</string>
+    <string name="calculation_success">Se calculó %1$d! correctamente. El resultado contiene %2$d dígitos.</string>
+    <string name="validation_help">Corrige el número indicado para poder realizar el cálculo.</string>
+    <string name="error_empty_number">Debes ingresar un número.</string>
+    <string name="error_invalid_number">Ingresa un número entero válido, sin letras ni decimales.</string>
+    <string name="error_negative_number">El factorial no está definido para números negativos.</string>
+    <string name="error_number_too_large">El número máximo permitido es %1$d para proteger el rendimiento del teléfono.</string>
+</resources>
+

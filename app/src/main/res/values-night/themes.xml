@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.CalculadoraFactorial" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">#003732</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/screen_background</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
+
